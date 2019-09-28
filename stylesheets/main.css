@@ -1,0 +1,59 @@
+* {
+    font-family: sans-serif;
+}
+
+#title {
+    padding: 25px;
+    background-size: 1300px 20px;
+    background-color: rgb(185, 0, 0);
+    color: white;
+}
+
+#login {
+    color: #ffffff;
+    font: bold;
+    position: relative;
+    top: -65px;
+    left: 1250px;
+}
+
+#links {
+    padding: 15px;
+    background-color: #3b3a3a;
+    color: #ffffff;
+    text-align-last: right;
+    position: relative;
+    top: -40px;
+}
+
+#text_body {
+    max-width: 1000px;
+}
+
+#larimer {
+    position: relative;
+    top: -825px;
+    left: 1100px;
+}
+
+#bridge {
+    position: relative;
+    top: -725px;
+    left: 1100px;
+}
+
+#house {
+    position: relative;
+    top: -625px;
+    left: 1100px;
+}
+
+footer {
+    background-color: #3b3a3a;
+    position: relative;
+    top: -600px;
+    left: 0px;
+    font-size-adjust: 0.58;
+    max-width: 1300px;
+    color: white;
+}
